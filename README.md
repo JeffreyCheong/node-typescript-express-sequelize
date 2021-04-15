@@ -1,13 +1,3 @@
-# Interview Assignment (v2.0.1)
-
-This package contains the base code for the interview assignment.<br>
-You can add additional library that will aid you in fulfiling the requirements.
-<br>
-<br>
-Please read through NodeJS_Assessment.pdf carefully before you attempt.
-
-__Please do put include Ufinity name in your repository name or README.md__
-
 ## Prerequisites
 - NodeJS v14.15.5
 - Docker version 20.10.5, build 55c4c88
@@ -93,5 +83,4 @@ Please run ```npm start``` again.
 ```
 1. can 1 subject have multiple classes ? can 1 class have multiple subject ?
 2. can 1 student register multiple subject ? can 1 subject registered by multiple student ?
-3. 
 ```
